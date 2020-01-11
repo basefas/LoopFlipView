@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 循环公告
+ * 循环公告 View
  */
 
 public class LoopFlipView extends ViewFlipper {
